@@ -1,8 +1,8 @@
 summary.tex
 background.tex
 Introduction.tex
+purpose.tex
 Methods.tex
 Notes.tex
-purpose.tex
 Results.tex
 discussion.tex
