@@ -5,4 +5,4 @@ Notes.tex
 background.tex
 purpose.tex
 Results.tex
-subsection_Discussion__.tex
+discussion.tex
